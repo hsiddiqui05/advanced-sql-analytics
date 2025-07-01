@@ -1,4 +1,4 @@
-use arti; -- used schema 
+use salary_analysis; -- used schema 
 
 DROP TABLE IF EXISTS dep; -- This command safely deletes the table if it already exists, 
                            -- so that your script doesn't fail when run multiple times.
